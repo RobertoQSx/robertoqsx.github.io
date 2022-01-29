@@ -429,7 +429,7 @@ main video {
 
 figure {
   margin: 0;
-  text-align: center;
+  text-align: left;
 }
 
 figcaption {
@@ -508,9 +508,3 @@ pre code {
     }
 </style>
 
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
