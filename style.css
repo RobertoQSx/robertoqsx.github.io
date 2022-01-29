@@ -498,7 +498,6 @@ pre code {
     }
 
     p.copyright {
-        position: absolute;
         width: 100%;
         color: #fff;
         line-height: 40px;
