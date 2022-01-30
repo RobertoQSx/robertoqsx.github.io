@@ -251,7 +251,6 @@ nav a:hover {
 
 /* Format the expanding box */
 details {
-  font-size: inherit;
   background: var(--accent-bg);
   border: 1px solid var(--border);
   border-radius: 5px;
@@ -260,7 +259,6 @@ details {
 
 summary {
   cursor: pointer;
-  font-weight: bold;
   padding: 0.6rem 1rem;
 }
 
