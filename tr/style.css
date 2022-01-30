@@ -264,6 +264,7 @@ summary {
 }
 
 details[open] {
+  font-size: inherit;
   padding: 0.6rem 1rem 0.75rem 1rem;
 }
 
