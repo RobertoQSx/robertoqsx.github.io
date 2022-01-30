@@ -264,7 +264,6 @@ summary {
 }
 
 details[open] {
-  font-size: inherit;
   padding: 0.6rem 1rem 0.75rem 1rem;
 }
 
@@ -273,7 +272,7 @@ details[open] summary {
   padding: 0;
 }
 
-details[open] > *:last-child {
+details[open] > * {
   margin-bottom: 0;
 }
 
