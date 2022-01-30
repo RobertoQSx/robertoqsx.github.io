@@ -272,7 +272,7 @@ details[open] summary {
   padding: 0;
 }
 
-details[open] > * {
+details[open] > *:last-child {
   margin-bottom: 0;
 }
 
