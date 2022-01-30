@@ -251,6 +251,7 @@ nav a:hover {
 
 /* Format the expanding box */
 details {
+  font-size: inherit;
   background: var(--accent-bg);
   border: 1px solid var(--border);
   border-radius: 5px;
@@ -273,7 +274,6 @@ details[open] summary {
 }
 
 details[open] > *:last-child {
-  font-size: inherit;
   margin-bottom: 0;
 }
 
