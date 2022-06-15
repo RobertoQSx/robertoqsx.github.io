@@ -6,35 +6,38 @@
 			<link rel="stylesheet" type="text/css" href="style.css" />
 
 <head>   
-            <title>Roberto Q. S.</title>		
+            <title> R. Q. S. </title>		
 </head>
+			
+<h1 style="text-align: center">
+<u>Roberto Q. S.</u> 
+</h1>
 
-<body>
+<h3 style="text-align: center">
+DĒ LOCŪTIŌNIBUS MISCELLĀNĪS:<br>
+CONVERSIŌNĒS SCRIPTŪRAEQUE
+<br><br>
+DE PASAJES MISCELÁNEOS:<br>
+TRADUCCIONES Y ESCRITURAS
+<br><br>
+ON MISCELLANEOUS PASSAGES:<br>
+TRANSLATIONS AND WRITINGS
+<br><br>
 
-<header>
-  <nav>
-    <a href="/">Home</a>
-    <a href="/t0.html">Translations</a>
-    <a href="/w0.html">Writings</a>
-    <a href="/about.html">About</a>
-  <nav>
-    <h1>Roberto Q. S.</h1>
-    <p>Dē locūtiōnibus miscellānīs: conversiōnēs scriptūraeque<br>
-       On Miscellaneous Passages: Translations and Writings<br>
-       De pasajes misceláneos: traducciones y escrituras<br>
-    </p>
-</header>
-
-<main>
+  <a href="/"><button>Home</button></a>&nbsp;&nbsp;&nbsp;
+  <a href="/t0.html"><button>Translations</button></a>&nbsp;&nbsp;&nbsp;
+  <a href="/w0.html"><button>Writings</button></a>&nbsp;&nbsp;&nbsp;
+  <a href="/about.html"><button>About</button></a>
   
-<h3 style="text-align: left">
-<i>Fragments from The Anax</i>, by Herries Anderton
+<h3 style="text-align: center">
+<u><i>Fragments from The Anax</i>, by Herries Anderton</u>
 </h3>
-<p style="text-align: left">
+
+<p style="text-align: center">
 Visit the author's website <a href="https://www.anaxfiction.com">here</a>.
 </p>
 
-<br>
+<p></p>
 
 <details>
 <summary><b>El extraordinario reloj de Verilsberg</b></summary>
@@ -60,10 +63,11 @@ ANAX<sup>1</sup>
 <b>Note:</b>
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. This word appears after the end of every story. You can find a bit of explanation about that in the author's website, specifically <a href="https://www.anaxfiction.com/the-anax">here</a>.
-<br><br>
+</p>
+<p></p>
 </details>
 
-<br>
+<p></p>
 
 <details>
 <summary><b>De los cosmonismos</b></summary>
@@ -90,13 +94,13 @@ ANAX<sup>1</sup>
 <br>
 <p style="text-align: right">
 ANAX
-<br><br>
+<p></p>
 </details>
 
-<br>
+<p></p>
 
 <details>
-<summary><b>Chapiteles silenciosos</b></summary>
+<summary><b>Chapiteles Silenciosos</b></summary>
 <p style="text-align: left">
 <b>English original <a href="https://www.anaxfiction.com/blog/silent-steeples">here</a>.</b>
 <br><br>
@@ -120,16 +124,11 @@ Los Entropistas tenían la razón. El caos se acercaba lentamente y no había na
 <br>
 <p style="text-align: right">
 ANAX
-<br><br>
+<p></p>
 </details>
 
-<br><br>
-
-</main>
+<p></p>
 
 <footer>
 <p class="copyright">Copyright © 2022 by Roberto Q. S.</p>
 </footer>
-
-</body>
-</html>
