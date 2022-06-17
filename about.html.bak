@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang = "en">
+
+<meta charset="utf-8">
+            <meta name="viewport" content="width=device-width" />
+			<link rel="stylesheet" type="text/css" href="style.css" />
+
+<head>   
+            <title>Roberto Q. S.</title>		
+</head>
+
+<body>
+
+<header>
+  <nav>
+    <a href="/">Home</a>
+    <a href="t0.html">Translations</a>
+    <a href="w0.html">Writings</a>
+    <a href="about.html">About</a>
+  <nav>
+    <h1>Roberto Q. S.</h1>
+    <p>Dē locūtiōnibus miscellānīs: conversiōnēs scriptūraeque<br>
+       On Miscellaneous Passages: Translations and Writings<br>
+       De pasajes misceláneos: traducciones y escrituras<br>
+    </p>
+</header>
+
+<main>
+
+<h1 style="text-align: center">
+About
+</h1>
+
+<h3 style="text-align: center">
+  <a href="https://linktr.ee/robertoqs">Linktree</a>
+  <br><br>
+  <a href="https://robertoqs.mataroa.blog">Mataroa</a>
+  <br><br>
+  <a href="https://www.reddit.com/user/RobertoQS">Reddit</a>
+  <br><br>
+  <a href="https://twitter.com/RobertoQSx">Twitter</a>
+</h3>
+
+<br><br>
+
+<figure>
+<img src="images/rqs.jpg" alt="Roberto Q. S." title="Roberto Q. S." />
+<figcaption>Lēnitas nōn est indicium infirmitātis</figcaption>
+</figure>
+
+<br>
+
+<p>
+I am an autonomous translator. My native language is Spanish and I have bilingual fluency in English, both spoken and written. You are welcome to peruse my portfolio in this personal website. You can <a href= "mailto:robertoqs@proton.me">email me</a> in order to coordinate a verbal conversation via Telegram, Signal, or Discord, as well as for subsequent collaboration.
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My thanks to <a href= "https://github.com/divyaranjan1905">Divya Ranjan</a> for his guidance on HTML and for having taught me how to use GitHub Pages, where this site is <a href= "https://robertoqsx.github.io/">mirrored</a>. The CSS used here is ‘<a href= "https://simplecss.org">Simple.css</a>’, by <a href= "https://kevq.uk">Kev Quirk</a>. Concerning my translation journey, I would also like to thank <a href= "https://www.geekofalltrades.org/">Forrest Cameranesi</a> and <a href= "https://twitter.com/HerriesAnderton">Herries Anderton</a> for the opportunity to further develop my literary portfolio by bringing their wonderful work into Spanish.
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My genre interests are mostly in the areas of science fiction and fantasy. I also enjoy historical fiction and magical realism. Concerning academic matters, I work in the humanities, mainly philosophy and history. Furthermore, I have experience in the medical field (EN<>ES consecutive interpreting background), as well as in information technology (technical writing background, in English).
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There is a fertile ground to be cherished: the “leaf-mould of the mind”, in Tolkien's words, the fruits of which I gradually reap across time. My writings are short creative burts (whether they be about fictional or non-fictional matters) that I have been progressively producing. The contents of this website are not listed in accordance to their date of creation. My original work is either in Spanish or in English, depending on topic (along with the corresponding translations), and I have dabbled with doing so in French. Every instance of indulging in imaginative writing is an enriching and enjoyable endeavour.
+</p>
+
+<br><br>
+
+<figure>
+  <img src="images/eve1.jpg" alt="An orbital station from the video game ‘EVE Online’" title="An orbital station from the video game ‘EVE Online’" />
+  <figcaption>An orbital station from the video game ‘EVE Online’</figcaption>
+</figure>
+
+<br><br>
+
+</main>
+
+<footer>
+<p class="copyright">Copyright © 2022 by Roberto Q. S.</p>
+</footer>
+
+</body>
+</html>
