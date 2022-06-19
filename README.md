@@ -32,7 +32,7 @@ There is a fertile ground to be cherished: the “leaf-mould of the mind”, in 
    
 <h2>A List of Fiction</h2>
 
-<p><a href="list.html">Here</a> is a list of works of fiction that I have read, am reading, or plan on doing so. The scope is confined to science fiction and fantasy.
+<p><a href="https://robertoqsx.github.io/list.html">Here</a> is a list of works of fiction that I have read, am reading, or plan on doing so. The scope is confined to science fiction and fantasy.
 </p>
 
 <br>
@@ -40,7 +40,7 @@ There is a fertile ground to be cherished: the “leaf-mould of the mind”, in 
 <h2>Concerning Free (Libre) and Open Source Software</h2>
 
 <p>
-While I am not a software developer, nor other kind of information technology <i>specialist</i>, it behoves me to indicate that I am a supporter of free (libre)<a href= "https://www.gnu.org/philosophy/free-sw.html"><sup>1</sup></a> <a href= "https://www.fsf.org/about/what-is-free-software"><sup>2</sup></a> and open source<a href= "https://www.gnu.org/philosophy/open-source-misses-the-point.html"><sup>3</sup></a> software (FOSS<a href= "https://en.wikipedia.org/wiki/Free_and_open-source_software"><sup>4</sup></a>). It is due to this advocacy (imperfect and growing at it is) that I use the services I have selected for several functions. To the right is a list of FOSS I am familiar with, have used at some point, or have recently started using. The items are not displayed in chronological order. Also, I did not want to saturate the aside with hyperlinks, as there are both repositories and official websites to consider, but I follow those platforms and their developers (as well as other resources) in <a href="https://github.com/RobertoQSx?tab=following">my GitHub profile</a>. Thus, if you are not acquainted with some of them, or if you are less technically savvy and want to increase your general awareness of FOSS options, I recommend you have a look there.
+While I am not a software developer, nor other kind of information technology <i>specialist</i>, it behoves me to indicate that I am a supporter of free (libre)<a href= "https://www.gnu.org/philosophy/free-sw.html"><sup>1</sup></a> <a href= "https://www.fsf.org/about/what-is-free-software"><sup>2</sup></a> and open source<a href= "https://www.gnu.org/philosophy/open-source-misses-the-point.html"><sup>3</sup></a> software (FOSS<a href= "https://en.wikipedia.org/wiki/Free_and_open-source_software"><sup>4</sup></a>). It is due to this advocacy (deficient and growing at it is) that I use the services I have selected for several functions. Have a look at the platforms and developers I follow <a href="https://github.com/RobertoQSx?tab=following">here</a> on GitHub.
 </p>
 
 <br><br>
