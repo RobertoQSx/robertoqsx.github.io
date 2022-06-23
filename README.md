@@ -1,7 +1,7 @@
 <h1>About</h1>
 
 <p>
-Autonomous translator. Casual writer. Avid reader. My native language is Spanish, as I am from Costa Rica, and I have bilingual fluency in English, both spoken and written. You are welcome to peruse my portfolio in this personal website. You can email me in order to coordinate conversations, as well as for further collaboration.
+Autonomous translator. Casual writer. Avid reader. My native language is Spanish, as I am Costa Rican, and I have bilingual fluency in English, both spoken and written. You are welcome to peruse my portfolio in this personal website. You can email me in order to coordinate conversations, as well as for further collaboration.
 
 A word of appreciation for <a href= "https://github.com/divyaranjan1905">Divya Ranjan</a>'s guidance on HTML and for having introduced me to GitHub Pages, where this site is <a href= "https://robertoqsx.github.io/">mirrored</a>. The CSS featured here is ‘<a href= "https://simplecss.org">Simple.css</a>’, by <a href= "https://kevq.uk">Kev Quirk</a>. Regarding my development in fiction translation, I would like to mention writers <a href= "https://www.geekofalltrades.org/">Forrest Cameranesi</a> and <a href= "https://twitter.com/HerriesAnderton">Herries Anderton</a>, whose respective work I have had the excellent opportunity to bring into Spanish.
 
