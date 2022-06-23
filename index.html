@@ -14,9 +14,10 @@
 <header>
   <nav>
     <a href="/">Home</a>
-    <a href="t0.html">Translations</a>
-    <a href="w0.html">Writings</a>
-    <a href="about.html">About</a>
+    <a href="en/t0.html">Translations</a>
+    <a href="en/w0.html">Writings</a>
+    <a href="en/about.html">About</a>
+    <a href="/es/indice.html">Español</a>
   <nav>
     <h1>Roberto Q. S.</h1>
     <p>Dē locūtiōnibus miscellānīs: conversiōnēs scriptūraeque<br>
@@ -43,6 +44,51 @@
 </p>
 
 <br><br>
+
+
+
+<style>
+#topbutton {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  border: none;
+  border-radius: 5px;
+  background: var(--accent);
+  font-size: 1rem;
+  color: var(--bg);
+  padding: 0.7rem 0.9rem;
+  margin: 0.5rem 0;
+}
+</style>
+
+<button onclick="topFunction()" id="topbutton">Go to the top</button>
+
+<script>
+//Get the button
+var mybutton = document.getElementById("topbutton");
+
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    mybutton.style.display = "block";
+  } else {
+    mybutton.style.display = "none";
+  }
+}
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 0;
+}
+</script>
+
+
 
 </main>
 

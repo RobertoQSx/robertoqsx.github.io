@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang = "en">
+
+<meta charset="utf-8">
+            <meta name="viewport" content="width=device-width" />
+			<link rel="stylesheet" type="text/css" href="style.css" />
+
+<head>   
+            <title>Roberto Q. S.</title>		
+</head>
+
+<body>
+
+<header>
+  <nav>
+    <a href="indice.html">Inicio</a>
+    <a href="t0.html">Traducciones</a>
+    <a href="e0.html">Escrituras</a>
+    <a href="acerca.html">Acerca</a>
+    <a href="/en/about.html">English</a>
+  <nav>
+    <h1>Roberto Q. S.</h1>
+    <p>Dē locūtiōnibus miscellānīs: conversiōnēs scriptūraeque<br>
+       On Miscellaneous Passages: Translations and Writings<br>
+       De pasajes misceláneos: traducciones y escrituras<br>
+    </p>
+</header>
+
+<main>
+
+<h1>Acerca</h1>
+
+<p>
+Traductor autónomo. Escritor casual. Lector ávido. Mi lengua nativa es el español, pues soy de Costa Rica, y tengo fluidez bilingüe en el inglés, tanto oral como escrito. Lo invito a que lea mi portafolio en este sitio web personal. Usted puede enviarme un correo electrónico con el fin de coordinar conversaciones, así como para colaboración subsiguiente.
+
+<br><br>
+
+Quiero expresar mi agradecimiento hacia <a href= "https://github.com/divyaranjan1905">Divya Ranjan</a> por guiarme en el uso de HTML y por introducirme en GitHub Pages. Existe una <a href= "https://robertoqsx.github.io/">copia</a> de este sitio en Neocities. El CSS utilizado aquí es ‘<a href= "https://simplecss.org">Simple.css</a>’, por <a href= "https://kevq.uk">Kev Quirk</a>. En lo concerniente a mi desarrollo en la traducción de ficción, me gustaría mencionar a los escritores <a href= "https://www.geekofalltrades.org/">Forrest Cameranesi</a> y <a href= "https://twitter.com/HerriesAnderton">Herries Anderton</a>, dado que he tenido la oportunidad excelente de traer al español sus trabajos respectivos.
+
+<br><br>
+
+Mis intereses en la literatura de género están más que todo en las áreas de ciencia ficción y fantasía. También tengo contacto con la ficción histórica y el realismo mágico. En cuanto a cuestiones académicas, me relaciono sobre todo con la filosofía y la historia. Además, tengo experiencia en el campo médico (historial en interpretación consecutiva EN<>ES), así como en tecnología de información (historial en escritura técnica, en inglés).
+
+<br><br>
+
+Hay un suelo fértil que ha de ser preciado: el «humus de la mente», en palabras de Tolkien, cuyos frutos cosecho gradualmente a través del tiempo. Mis escritos se originan en ráfagas breves (trátense ya de cuestiones ficticias o no ficticias) que he estado produciendo progresivamente. Los contenidos pertinentes de este sitio web no se muestran de acuerdo con su fecha de creación. Mi trabajo original es tanto en español como en inglés, dependiendo del tema, con las traducciones correspondientes (incluido el sitio web en sí). Toda instancia de entregarse al gusto de la escritura imaginativa es una labor enriquecedora y disfrutable.
+</p>
+
+<br>
+
+<h3>Contacto y otros enlaces</h3>
+
+<p>
+  <nav>
+    <a href= "mailto:robertoqs@proton.me">Email</a>&nbsp;&nbsp;
+    <a href="https://signal.group/#CjQKIIDGeLiiKdnILqASRyCoZ7_AedMz0MZTnAg3Tb4UbgSSEhD_pOEKqfr8eittAQ8_n1SM">Signal</a>&nbsp;&nbsp;
+    <a href="https://matrix.to/#/!RKgZXowtvrnPFORZNm:matrix.org?via=matrix.org">Matrix</a>&nbsp;&nbsp;
+    <a rel="me" href="https://mastodon.social/@robertoqs">Mastodon</a>&nbsp;&nbsp;
+    <a href="https://t.me/+8I-DOlgDigs4ZDVh">Telegram</a>&nbsp;&nbsp;
+    <a href="https://discord.gg/7dX9debYrA">Discord</a>&nbsp;&nbsp;
+    <a href="https://www.reddit.com/user/RobertoQS">Reddit</a>&nbsp;&nbsp;
+    <a href="https://twitter.com/RobertoQSx">Twitter</a>&nbsp;&nbsp;
+    <a href="https://app.singlelink.co/u/robertoqs">Singlelink</a>&nbsp;&nbsp;
+  <nav>
+</p>
+
+<br>
+
+<h3>Una lista de ficción</h3>
+
+<p><a href="lista.html">Aquí</a> hay una lista de obras de ficción que he leído, estoy leyendo, o planeo hacerlo. El enfoca se limita a la ciencia ficción y la fantasía.
+</p>
+
+<br>
+
+<h3>Sobre el <i>software</i> libre y de código abierto</h3>
+
+<aside>
+<ul>
+<li>Neocities</li>
+<li>GitHub Pages</li>
+<li>Sourcehut Pages</li>
+<li>Mataroa</li>
+<li>Write.as</li>
+<li>Sigle</li>
+<li>ProtonMail</li>
+<li>Telegram Desktop</li>
+<li>Signal</li>
+<li>Matrix</li>
+<li>Mastodon</li>
+<li>Firefox</li>
+<li>DuckDuckGo</li>
+<li>WriteMonkey</li>
+<li>OmegaT</li>
+<li>ONLYOFFICE</li>
+<li>Singlelink</li>
+<li>Lichess</li>
+<li>Arch Linux (soon)</li>
+</ul>
+</aside>
+
+<p>
+Si bien no soy desarrollador de <i>software</i>, ni otro tipo de <i>especialista</i> en tecnología de información, me es necesario indicar que apoyo el *software* libre<a href= "https://www.gnu.org/philosophy/free-sw.html"><sup>1</sup></a> <a href= "https://www.fsf.org/about/what-is-free-software"><sup>2</sup></a> y de código abierto<a href= "https://www.gnu.org/philosophy/open-source-misses-the-point.html"><sup>3</sup></a> (FOSS<a href= "https://en.wikipedia.org/wiki/Free_and_open-source_software"><sup>4</sup></a>, según las siglas en inglés). Es debido a abogar por ello (si bien de manera deficiente y en crecimiento) que uso los servicios que he seleccionado para funciones varias. A la derecha hay una lista de FOSS con el cual estoy familiarizado, que he usado en algún momento, o que recientemente empecé a usar. Los ítemes no se muestran en orden cronológico. Además, no quise saturar el aparte con hipervínculos, pues que considerar tanto repositorios como sitios web oficiales, pero sigo esas plataformas y sus desarrolladores (así como otros recursos) en <a href="https://github.com/RobertoQSx?tab=following">mi perfil de GitHub</a>. Así, si usted no está al tanto de algunos de ellos, o si sabe menos de tales asuntos técnicos y quiere incrementar su conocimiento general de opciones de FOSS, le recomiendo que eche un vistazo allí.
+</p>
+
+<br><br>
+
+
+
+<style>
+#topbutton {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  border: none;
+  border-radius: 5px;
+  background: var(--accent);
+  font-size: 1rem;
+  color: var(--bg);
+  padding: 0.7rem 0.9rem;
+  margin: 0.5rem 0;
+}
+</style>
+
+<button onclick="topFunction()" id="topbutton">Go to the top</button>
+
+<script>
+//Get the button
+var mybutton = document.getElementById("topbutton");
+
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    mybutton.style.display = "block";
+  } else {
+    mybutton.style.display = "none";
+  }
+}
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 0;
+}
+</script>
+
+
+
+</main>
+
+<footer>
+<p class="copyright"><i>Copyright</i> © 2022 de Roberto Q. S.</p>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang = "en">
+
+<meta charset="utf-8">
+            <meta name="viewport" content="width=device-width" />
+			<link rel="stylesheet" type="text/css" href="style.css" />
+
+<head>   
+            <title>Roberto Q. S.</title>		
+</head>
+
+<body>
+
+<header>
+  <nav>
+    <a href="/">Home</a>
+    <a href="t0.html">Translations</a>
+    <a href="w0.html">Writings</a>
+    <a href="about.html">About</a>
+    <a href="/es/acerca.html">Español</a>
+  <nav>
+    <h1>Roberto Q. S.</h1>
+    <p>Dē locūtiōnibus miscellānīs: conversiōnēs scriptūraeque<br>
+       On Miscellaneous Passages: Translations and Writings<br>
+       De pasajes misceláneos: traducciones y escrituras<br>
+    </p>
+</header>
+
+<main>
+
+<h1>About</h1>
+
+<p>
+Autonomous translator. Casual writer. Avid reader. My native language is Spanish, as I am from Costa Rica, and I have bilingual fluency in English, both spoken and written. You are welcome to peruse my portfolio in this personal website. You can email me in order to coordinate conversations, as well as for further collaboration.
+
+<br><br>
+
+A word of appreciation for <a href= "https://github.com/divyaranjan1905">Divya Ranjan</a>'s guidance on HTML and for introducing me to GitHub Pages. This site is <a href= "https://robertoqs.neocities.org/">mirrored</a> on Neocities. The CSS featured here is ‘<a href= "https://simplecss.org">Simple.css</a>’, by <a href= "https://kevq.uk">Kev Quirk</a>. Regarding my development in fiction translation, I would like to mention writers <a href= "https://www.geekofalltrades.org/">Forrest Cameranesi</a> and <a href= "https://twitter.com/HerriesAnderton">Herries Anderton</a>, whose respective work I have had the excellent opportunity to bring into Spanish.
+
+<br><br>
+
+My genre literature interests are mostly in the areas of science fiction and fantasy. I also have contact with historical fiction and magical realism. As for academic matters, I am mostly concerned with philosophy and history. Furthermore, I have experience in the medical field (EN<>ES consecutive interpreting background), as well as in information technology (technical writing background, in English).
+
+<br><br>
+
+There is a fertile ground to be cherished: the “leaf-mould of the mind”, in Tolkien's words, the fruits of which I gradually reap across time. My writings originate from short creative burts (whether they be about fictional or non-fictional matters) that I have been progressively producing. The pertinent contents of this website are not listed in accordance to their date of creation. My original work is both in Spanish and in English, depending on topic, with the corresponding translations (the website itself included). Every instance of indulging in imaginative writing is an enriching and enjoyable endeavour.
+</p>
+
+<br>
+
+<h3>Contact and Other Links</h3>
+
+<p>
+  <nav>
+    <a href= "mailto:robertoqs@proton.me">Email</a>&nbsp;&nbsp;
+    <a href="https://signal.group/#CjQKIIDGeLiiKdnILqASRyCoZ7_AedMz0MZTnAg3Tb4UbgSSEhD_pOEKqfr8eittAQ8_n1SM">Signal</a>&nbsp;&nbsp;
+    <a href="https://matrix.to/#/!RKgZXowtvrnPFORZNm:matrix.org?via=matrix.org">Matrix</a>&nbsp;&nbsp;
+    <a rel="me" href="https://mastodon.social/@robertoqs">Mastodon</a>&nbsp;&nbsp;
+    <a href="https://t.me/+8I-DOlgDigs4ZDVh">Telegram</a>&nbsp;&nbsp;
+    <a href="https://discord.gg/7dX9debYrA">Discord</a>&nbsp;&nbsp;
+    <a href="https://www.reddit.com/user/RobertoQS">Reddit</a>&nbsp;&nbsp;
+    <a href="https://twitter.com/RobertoQSx">Twitter</a>&nbsp;&nbsp;
+    <a href="https://app.singlelink.co/u/robertoqs">Singlelink</a>&nbsp;&nbsp;
+  <nav>
+</p>
+
+<br>
+
+<h3>A List of Fiction</h3>
+
+<p><a href="list.html">Here</a> is a list of works of fiction that I have read, am reading, or plan on doing so. The scope is confined to science fiction and fantasy.
+</p>
+
+<br>
+
+<h3>Concerning Free (Libre) and Open Source Software</h3>
+
+<aside>
+<ul>
+<li>Neocities</li>
+<li>GitHub Pages</li>
+<li>Sourcehut Pages</li>
+<li>Mataroa</li>
+<li>Write.as</li>
+<li>Sigle</li>
+<li>ProtonMail</li>
+<li>Telegram Desktop</li>
+<li>Signal</li>
+<li>Matrix</li>
+<li>Mastodon</li>
+<li>Firefox</li>
+<li>DuckDuckGo</li>
+<li>WriteMonkey</li>
+<li>OmegaT</li>
+<li>ONLYOFFICE</li>
+<li>Singlelink</li>
+<li>Lichess</li>
+<li>Arch Linux (soon)</li>
+</ul>
+</aside>
+
+<p>
+While I am not a software developer, nor other kind of information technology <i>specialist</i>, it behoves me to indicate that I am a supporter of free (libre)<a href= "https://www.gnu.org/philosophy/free-sw.html"><sup>1</sup></a> <a href= "https://www.fsf.org/about/what-is-free-software"><sup>2</sup></a> and open source<a href= "https://www.gnu.org/philosophy/open-source-misses-the-point.html"><sup>3</sup></a> software (FOSS<a href= "https://en.wikipedia.org/wiki/Free_and_open-source_software"><sup>4</sup></a>). It is due to this advocacy (deficient and growing at it is) that I use the services I have selected for several functions. To the right is a list of FOSS I am familiar with, have used at some point, or have recently started using. The items are not displayed in chronological order. Also, I did not want to saturate the aside with hyperlinks, as there are both repositories and official websites to consider, but I follow those platforms and their developers (as well as other resources) in <a href="https://github.com/RobertoQSx?tab=following">my GitHub profile</a>. Thus, if you are not acquainted with some of them, or if you are less technically savvy and want to increase your general awareness of FOSS options, I recommend you have a look there.
+</p>
+
+<br><br>
+
+
+
+<style>
+#topbutton {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  border: none;
+  border-radius: 5px;
+  background: var(--accent);
+  font-size: 1rem;
+  color: var(--bg);
+  padding: 0.7rem 0.9rem;
+  margin: 0.5rem 0;
+}
+</style>
+
+<button onclick="topFunction()" id="topbutton">Go to the top</button>
+
+<script>
+//Get the button
+var mybutton = document.getElementById("topbutton");
+
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    mybutton.style.display = "block";
+  } else {
+    mybutton.style.display = "none";
+  }
+}
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 0;
+}
+</script>
+
+
+
+</main>
+
+<footer>
+<p class="copyright">Copyright © 2022 by Roberto Q. S.</p>
+</footer>
+
+</body>
+</html>
