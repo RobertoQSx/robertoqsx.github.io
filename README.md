@@ -32,7 +32,7 @@ There is a fertile ground to be cherished: the “leaf-mould of the mind”, in 
    
 <h2>A List of Fiction</h2>
 
-<p><a href="https://robertoqsx.github.io/list.html">Here</a> is a list of works of fiction that I have read, am reading, or plan on doing so. The scope is confined to science fiction and fantasy.
+<p><a href="https://robertoqsx.github.io/en/list.html">Here</a> is a list of works of fiction that I have read, am reading, or plan on doing so. The scope is confined to science fiction and fantasy.
 </p>
 
 <br>
