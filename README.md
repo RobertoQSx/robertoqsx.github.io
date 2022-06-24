@@ -22,8 +22,8 @@ There is a fertile ground to be cherished: the “leaf-mould of the mind”, in 
     <a rel="me" href="https://mastodon.social/@robertoqs">Mastodon</a>&nbsp;&nbsp;
     <a href="https://t.me/+8I-DOlgDigs4ZDVh">Telegram</a>&nbsp;&nbsp;
     <a href="https://discord.gg/7dX9debYrA">Discord</a>&nbsp;&nbsp;
-    <a href="https://www.reddit.com/user/RobertoQS">Reddit</a>&nbsp;&nbsp;
     <a href="https://twitter.com/RobertoQSx">Twitter</a>&nbsp;&nbsp;
+    <a href="https://www.reddit.com/user/RobertoQS">Reddit</a>&nbsp;&nbsp;
     <a href="https://app.singlelink.co/u/robertoqs">Singlelink</a>&nbsp;&nbsp;
   <nav>
 </p>
