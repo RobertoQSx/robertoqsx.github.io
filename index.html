@@ -45,54 +45,38 @@
 
 <br><br>
 
-
+            
 
 <style>
-#topbutton {
-  display: none;
-  position: fixed;
-  bottom: 20px;
-  right: 30px;
-  z-index: 99;
-  border: none;
-  border-radius: 5px;
-  background: var(--accent);
-  font-size: 1rem;
-  color: var(--bg);
-  padding: 0.7rem 0.9rem;
-  margin: 0.5rem 0;
+a:link {
+  color: var(--text);
+  text-decoration: none;
+}
+a:visited {
+  color: #dcdcdc;
+}
+a:hover {
+  color: #ffb300;
+  text-decoration: none;
 }
 </style>
-
-<button onclick="topFunction()" id="topbutton">Go to the top</button>
-
-<script>
-//Get the button
-var mybutton = document.getElementById("topbutton");
-
-// When the user scrolls down 20px from the top of the document, show the button
-window.onscroll = function() {scrollFunction()};
-
-function scrollFunction() {
-  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-    mybutton.style.display = "block";
-  } else {
-    mybutton.style.display = "none";
-  }
-}
-
-// When the user clicks on the button, scroll to the top of the document
-function topFunction() {
-  document.body.scrollTop = 0;
-  document.documentElement.scrollTop = 0;
-}
-</script>
 
 
 
 </main>
 
 <footer>
+  <nav style="text-align: center">
+    <a href= "mailto:robertoqs@proton.me">Email</a>&nbsp;&nbsp;&nbsp;  
+    <a href="https://signal.group/#CjQKIIDGeLiiKdnILqASRyCoZ7_AedMz0MZTnAg3Tb4UbgSSEhD_pOEKqfr8eittAQ8_n1SM">Signal</a>&nbsp;&nbsp;&nbsp;    
+    <a href="https://matrix.to/#/!RKgZXowtvrnPFORZNm:matrix.org?via=matrix.org">Matrix</a>&nbsp;&nbsp;&nbsp;
+    <a rel="me" href="https://mastodon.social/@robertoqs">Mastodon</a>&nbsp;&nbsp;&nbsp;    
+    <a href="https://t.me/+8I-DOlgDigs4ZDVh">Telegram</a>&nbsp;&nbsp;&nbsp;
+    <a href="https://discord.gg/7dX9debYrA">Discord</a>&nbsp;&nbsp;&nbsp;    
+    <a href="https://twitter.com/RobertoQSx">Twitter</a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.reddit.com/user/RobertoQS">Reddit</a>&nbsp;&nbsp;&nbsp;       
+    <a href="https://app.singlelink.co/u/robertoqs">Singlelink</a>
+  </nav>
 <p class="copyright">Copyright © 2022 by Roberto Q. S.</p>
 </footer>
 
