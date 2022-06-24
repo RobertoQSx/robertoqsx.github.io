@@ -3,7 +3,7 @@
 
 <meta charset="utf-8">
             <meta name="viewport" content="width=device-width" />
-      <link rel="stylesheet" href="/css/style.css">
+			<link rel="stylesheet" type="text/css" href="style.css" />
 
 <head>   
             <title>Roberto Q. S.</title>		
@@ -111,20 +111,6 @@ Miscellaneous Excerpts
 <br><br>
 
 
-
-<style>
-a:link {
-  color: var(--text);
-  text-decoration: none;
-}
-a:visited {
-  color: #dcdcdc;
-}
-a:hover {
-  color: #ffb300;
-  text-decoration: none;
-}
-</style>
 
 <style>
 #topbutton {
