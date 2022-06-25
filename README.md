@@ -57,5 +57,3 @@ There is a fertile ground to be cherished: the “leaf-mould of the mind”, in 
 <p>
 While I am not a software developer, nor other kind of information technology <i>specialist</i>, it behoves me to indicate that I am a supporter of free (libre)<a href= "https://www.gnu.org/philosophy/free-sw.html"><sup>1</sup></a> <a href= "https://www.fsf.org/about/what-is-free-software"><sup>2</sup></a> and open source<a href= "https://www.gnu.org/philosophy/open-source-misses-the-point.html"><sup>3</sup></a> software (FOSS<a href= "https://en.wikipedia.org/wiki/Free_and_open-source_software"><sup>4</sup></a>). It is due to this advocacy (deficient and growing at it is) that I use the services I have selected for several functions. Have a look at the platforms and developers I follow <a href="https://github.com/RobertoQSx?tab=following">here</a> on GitHub.
 </p>
-
-<br><br>
