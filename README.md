@@ -17,6 +17,7 @@ There is a fertile ground to be cherished: the “leaf-mould of the mind”, in 
 <p>
   <nav>
     <a href= "mailto:robertoqs@proton.me">Email</a>&nbsp;&nbsp;
+    <a href= "https://web.libera.chat/#robertoqs">IRC</a>&nbsp;&nbsp;&nbsp;
     <a href="https://signal.group/#CjQKIIDGeLiiKdnILqASRyCoZ7_AedMz0MZTnAg3Tb4UbgSSEhD_pOEKqfr8eittAQ8_n1SM">Signal</a>&nbsp;&nbsp;
     <a href="https://matrix.to/#/!RKgZXowtvrnPFORZNm:matrix.org?via=matrix.org">Matrix</a>&nbsp;&nbsp;
     <a rel="me" href="https://mastodon.social/@robertoqs">Mastodon</a>&nbsp;&nbsp;
