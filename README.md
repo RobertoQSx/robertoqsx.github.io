@@ -14,20 +14,34 @@ There is a fertile ground to be cherished: the “leaf-mould of the mind”, in 
   
 <h2>Contact and Other Links</h2>
 
-<p>
-  <nav>
-    <a href= "mailto:robertoqs@proton.me">Email</a>&nbsp;&nbsp;
-    <a href= "https://web.libera.chat/#robertoqs">IRC</a>&nbsp;&nbsp;&nbsp;
-    <a href="https://signal.group/#CjQKIIDGeLiiKdnILqASRyCoZ7_AedMz0MZTnAg3Tb4UbgSSEhD_pOEKqfr8eittAQ8_n1SM">Signal</a>&nbsp;&nbsp;
-    <a href="https://matrix.to/#/!RKgZXowtvrnPFORZNm:matrix.org?via=matrix.org">Matrix</a>&nbsp;&nbsp;
-    <a rel="me" href="https://mastodon.social/@robertoqs">Mastodon</a>&nbsp;&nbsp;
-    <a href="https://t.me/+8I-DOlgDigs4ZDVh">Telegram</a>&nbsp;&nbsp;
-    <a href="https://discord.gg/7dX9debYrA">Discord</a>&nbsp;&nbsp;
-    <a href="https://twitter.com/RobertoQSx">Twitter</a>&nbsp;&nbsp;
-    <a href="https://www.reddit.com/user/RobertoQS">Reddit</a>&nbsp;&nbsp;
-    <a href="https://app.singlelink.co/u/robertoqs">Singlelink</a>&nbsp;&nbsp;
-  <nav>
-</p>
+<table>
+  <thead>
+    <tr>  
+      <th>I</th>
+      <th>II</th>
+      <th>III</th>
+      <th>IV</th>
+      <th>V</th>
+      <th>VI</th>
+    </tr>
+  </thead>  
+<tbody>
+  <tr>
+      <td><a href= "mailto:robertoqs@proton.me">Email</a></td>
+      <td><a href="https://signal.group/#CjQKIIDGeLiiKdnILqASRyCoZ7_AedMz0MZTnAg3Tb4UbgSSEhD_pOEKqfr8eittAQ8_n1SM">Signal</a></td>
+      <td><a href="https://matrix.to/#/!RKgZXowtvrnPFORZNm:matrix.org?via=matrix.org">Matrix</a></td>
+      <td><a rel="me" href="https://mastodon.social/@robertoqs">Mastodon</a></td>
+      <td><a href="https://www.reddit.com/user/RobertoQS">Reddit</a></td>
+      <td><a href="https://app.singlelink.co/u/robertoqs">Singlelink</a></td>
+    </tr>
+    <tr>
+      <td><a href= "https://web.libera.chat/#robertoqs">IRC</a></td>
+      <td><a href="https://t.me/+8I-DOlgDigs4ZDVh">Telegram</a></td>
+      <td><a href="https://discord.gg/7dX9debYrA">Discord</a></td>
+      <td><a href="https://twitter.com/RobertoQSx">Twitter</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <br>
    
