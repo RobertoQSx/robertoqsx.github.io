@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang = "en">
+
+<meta charset="utf-8">
+            <meta name="viewport" content="width=device-width" />
+      <link rel="stylesheet" href="/css/style.css">
+
+<head>   
+            <title>Roberto Q. S.</title>		
+</head>
+
+<body>
+
+<header>
+  <nav>
+    <a href="/">Home</a>
+    <a href="t0.html">Translations</a>
+    <a href="w0.html">Writings</a>
+    <a href="blog.html">Blog</a>
+    <a href="about.html">About</a>
+    <a href="/es/blog.html">Español</a>
+  <nav>
+    <h1>Roberto Q. S.</h1>
+    <p>Dē locūtiōnibus miscellānīs: conversiōnēs scriptūraeque<br>
+       On Miscellaneous Passages: Translations and Writings<br>
+       De pasajes misceláneos: traducciones y escrituras<br>
+    </p>
+</header>
+
+<main>
+
+<h1>Blog</h1>
+For commentaries on various topics.
+
+<h3>June 26, 2022</h3>
+
+<p>
+<b>Why a blog?</b>
+<br><br>
+
+I've been recently finding myself making or considering making too many edits on the ‘About’ page, so I thought I might as well start a blog in order to continue expanding a bit on certain topics by making additions in a separate section. Some of them will be informative, while others will be commentaries on different things that would not fit elsewhere. And thus the blog is officially initiated.
+
+<br><br>
+
+<b>A Word on IRC</b>
+<br><br>
+
+I've started using the famous IRC. For those of you who aren't aware of it, it stands for <a href="https://en.wikipedia.org/wiki/Internet_Relay_Chat">Internet Relay Chat</a>. It's one of the earliest online chat systems and it was invented by Jarkko Oikarinen in 1988. It's also one of the easiest ways to reach me, as it's not necessary to create an account nor install anything on the computer in order to access the channel I opened. You can simply click the corresponding link in the ‘About’ section<a href="about.html#caol"><sup>*</sup></a>, enter a temporary nickname and chat via your internet browser. For those of you who are acquainted with IRC, I simply registered a nickname (RobertoQS) and a private channel (#robertoqs) on the Libera Chat network, which I access via the Kiwi IRC web client.
+
+<br><br>
+
+<b>The Mataroa blogging platform</b>
+<br><br>
+
+Several months ago I found out about <a href="https://mataroa.blog">Mataroa</a>, a minimalistic blogging platform. It's simple, open source, respectful of privacy and very easy to use. The developers have repositories on Sourcehut and GitHub. The default visual style resembles the former, by the way, which I like. Also, the developers indicated having been inspired by <a href="https://bearblog.dev">Bear Blog</a>, which I haven't tried so far. If you would like to have a look at what I've done there, you can use <a href="https://robertoqs.mataroa.blog">this</a> link. It's mostly the same creative writings that I have posted here, along with a couple of translations (and by the way, as you would notice especially on Mataroa, nothing is posted according to date of creation, or date of translation, neither on that blog nor on either of my static website mirrors). One of the main differences is that, unlike here, I included images there, which you can see upon accessing each article. That's a nice detail. I decided not to include images here because I don't think it goes with the general aesthetics. In any case, I recommend checking Mataroa.
+</p>
+
+
+
+<br><br>
+
+
+
+<style>
+#topbutton {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  border: none;
+  border-radius: 5px;
+  background: var(--accent);
+  font-size: 1rem;
+  color: var(--bg);
+  padding: 0.7rem 0.9rem;
+  margin: 0.5rem 0;
+}
+</style>
+
+<button onclick="topFunction()" id="topbutton">Go to the top</button>
+
+<script>
+//Get the button
+var mybutton = document.getElementById("topbutton");
+
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    mybutton.style.display = "block";
+  } else {
+    mybutton.style.display = "none";
+  }
+}
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 0;
+}
+</script>
+
+
+
+</main>
+
+<footer>
+<p class="copyright">Copyright © 2022 by Roberto Q. S.</p>
+</footer>
+
+</body>
+</html>
